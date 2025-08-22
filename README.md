@@ -13,7 +13,7 @@
 
 ## 🚀 Our Mission
 
-We're building the future of decentralized compute infrastructure, connecting 5400+ NFT node operators to provide robust, secure, and scalable computing power through blockchain technology.
+We're building the future of decentralized compute infrastructure, connecting 1M+ node operators to provide robust, secure, and scalable computing power through blockchain technology.
 
 ## 🛠️ Core Technologies
 
