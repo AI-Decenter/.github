@@ -64,6 +64,4 @@ Whether you're a node operator, developer, or blockchain enthusiast, there's a p
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DECENTER/brand-assets/main/graphics/node-network.png" alt="Node Network" width="800"/>
-</div>
+
