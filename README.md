@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/DECENTER/brand-assets/raw/main/logos/decenter-logo.png](https://media.licdn.com/dms/image/v2/D563DAQH771oqe4yA4A/image-scale_191_1128/B56ZYU8PtwGsAg-/0/1744108060103/decenter_ai_official_cover?e=1756440000&v=beta&t=bMxZbZqxPfk6Okyf079GJeTIHk5wOfMpLNnqkoXl1lc)" alt="DECENTER Logo" width="300"/>
+  
   
   # 🌐 DECENTER
   
